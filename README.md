@@ -1,1 +1,2 @@
-# js-tuts
+# JS-Tuts
+ 
