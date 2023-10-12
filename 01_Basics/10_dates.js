@@ -9,7 +9,7 @@ console.log(myDate.toString());
 
 // Dates
 
-let myDate = new Date()
+let myDate2 = new Date()
 // console.log(myDate.toString());
 // console.log(myDate.toDateString());
 // console.log(myDate.toLocaleString());
